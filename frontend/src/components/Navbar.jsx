@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="container">
         <Link className="navbar-brand d-flex align-items-center" to="/">
           <img
-            src="../../public/icon.svg"
+            src="../../icon.svg"
             alt="Site Logo"
             className="logo me-2"
             style={{ width: "30px", height: "30px", objectFit: "contain" }}
