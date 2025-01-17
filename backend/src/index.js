@@ -13,6 +13,11 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true })); 
 app.use(cors());
 
+// Root route
+app.get('/', (req, res) => {
+    res.send('Welcome to the Social Media Handler API');
+});
+
 app.use("/app/auth", authRoutes)
 
 app.use("/app", userCrudRoutes)
