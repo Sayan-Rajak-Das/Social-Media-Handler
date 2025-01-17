@@ -2,14 +2,18 @@
 
 ## Screenshots
 
-(./screenshots/img1.png)
-(./screenshots/img2.png)
-(./screenshots/img3.png)
-(./screenshots/img4.png)
-(./screenshots/img5.png)
-(./screenshots/img6.png)
-(./screenshots/img7.png)
-(./screenshots/img8.png)
+
+![Screenshot 1](./screenshots/img1.png)
+![Screenshot 2](./screenshots/img2.png)
+![Screenshot 3](./screenshots/img3.png)
+![Screenshot 4](./screenshots/img4.png)
+![Screenshot 5](./screenshots/img5.png)
+![Screenshot 6](./screenshots/img6.png)
+![Screenshot 7](./screenshots/img7.png)
+![Screenshot 8](./screenshots/img8.png)
+
+
+
 
 
 
