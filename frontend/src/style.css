@@ -1,0 +1,16 @@
+.hero-section {
+    background: url('/assets/hero-bg.jpg') no-repeat center center/cover;
+  }
+  
+  .features-section i {
+    font-size: 3rem;
+  }
+  
+  .testimonials-section blockquote {
+    font-style: italic;
+  }
+  
+  .cta-section {
+    background: linear-gradient(45deg, #28a745, #218838);
+  }
+  
