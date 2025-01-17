@@ -1,5 +1,19 @@
 
 
+## Screenshots
+
+(./screenshots/img1.png)
+(./screenshots/img2.png)
+(./screenshots/img3.png)
+(./screenshots/img4.png)
+(./screenshots/img5.png)
+(./screenshots/img6.png)
+(./screenshots/img7.png)
+(./screenshots/img8.png)
+
+
+
+
 ---
 
 # Social Media Handle Project
@@ -11,7 +25,7 @@
 To clone the specific branch, run the following command:
 
 ```bash
-git clone -b "social-media-handle" https://github.com/labanidas/ADVANCE-JAVA-PROJECT.git
+git clone https://github.com/Sayan-Rajak-Das/Social-Media-Handler.git
 ```
 
 ### Backend Setup
@@ -41,7 +55,6 @@ Create a `.env` file in the backend root directory with the following variables:
 ```env
 MONGODB_URL='<your-mongodb-url>'
 PORT=5001
-MODE_ENV="development"
 CLOUDINARY_CLOUD_NAME="<your-cloudinary-cloud-name>"
 CLOUDINARY_API_KEY="<your-cloudinary-api-key>"
 CLOUDINARY_API_SECRET="<your-cloudinary-api-secret>"
