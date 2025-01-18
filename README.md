@@ -27,10 +27,15 @@
 ![Screenshot 8](./screenshots/img8.png)
 
 
+---
 
+### Deployment Details
 
+- **Site hosted on:** [Social Media Handler Frontend](https://social-media-handler-cpvi.vercel.app/)  
+- **Server hosted on:** [Social Media Handler Backend](https://social-media-handler-mu.vercel.app/)  
+- **Database:** MongoDB Atlas (currently facing issues in production, working on a fix)  
 
-
+The application runs perfectly in the local environment, but the backend is experiencing issues in production.
 
 ---
 
