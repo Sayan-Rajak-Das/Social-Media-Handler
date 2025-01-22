@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true })); 
 app.use(cors({
     credentials : true,
-    origin : "*"
+    origin : "https://social-media-handler-cpvi.vercel.app/"
 }))
 
 // Root route
