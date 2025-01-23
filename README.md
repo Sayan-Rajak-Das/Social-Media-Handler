@@ -35,9 +35,7 @@
   The application is successfully deployed and fully functional as of 22 January 2025. Below are the key deployment details:
 
 
-- 18.01.2025
-
--    
+- 18.01.2025    
 - **Site hosted on:** [Social Media Handler Frontend](https://social-media-handler-cpvi.vercel.app/)  
 - **Server hosted on:** [Social Media Handler Backend](https://social-media-handler-mu.vercel.app/)  
 - **Database:** MongoDB Atlas (currently facing issues in production, working on a fix)  
